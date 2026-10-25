@@ -11,6 +11,6 @@ About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubu
 LINK REPO
 | Name            | Link |
 |-----------------|---------|
-| damian     | damian |
+| damian     | [damian](https://github.com/ciaadcia/) |
 | zafran       | zafran |
 | Fatimah   | Fatimah |
