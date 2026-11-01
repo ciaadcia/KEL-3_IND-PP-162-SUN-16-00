@@ -8,19 +8,22 @@ class Testwin(QWidget):
        self.initUI()
        self.set_appear()
        self.show()
-
     def initUI(self):
       self.btn_next = QPushButton(txt_sendresults, self)
       self.btn_next.clicked.connect(self.next_click)
       layout = QVBoxLayout()
       layout.addWidget(self.btn_next, alignment=Qt.AlignCenter)
       self.setLayout(layout)
-
     def next_click(self):
       self.hide()
       self.fw = FinalWin()
-
     def set_appear(self):
       self.setWindowTitle(txt_title)
       self.resize(win_width, win_height)
       self.move(win_x, win_y)
+
+#scond_win part1
+
+
+
+#second_win part 2
